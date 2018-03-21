@@ -1,3 +1,3 @@
 # BC Food Producers Scrape
-I made a scraper to make a csv of all food producers in BC! 
+I made a scraper to make a csv of all food producers in BC! \n
 Using python 3 with BeautifulSoup and Selenium (chromeDriver)
